@@ -1,5 +1,5 @@
 <?php
- $con = mysqli_connect('localhost','blalas_user','D&-91)XQp6T)','db_balas');
+ $con = mysqli_connect('localhost','blalas_user','D&-91)XQp6T','db_balas');
  
 
  if($con->connect_error)
